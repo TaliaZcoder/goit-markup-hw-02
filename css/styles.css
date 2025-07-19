@@ -53,3 +53,27 @@
 .contacts-link:focus {
     color: #404bbf;
 }
+
+button {
+    cursor: pointer;
+    background-color: #4d5ae5;
+}
+
+.section-title {
+    width: 1440px;
+    height: 600px;
+    background-color: #2e2f42;
+}
+
+.title {
+    font-weight: 700;
+font-size: 56px;
+line-height: 107%;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+}
+
+.section-our-team {
+    background: #f4f4fd;
+}

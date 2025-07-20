@@ -64,8 +64,6 @@ button {
 }
 
 .section-title {
-    width: 1440px;
-    height: 600px;
     background-color: #2e2f42;
 }
 
@@ -94,7 +92,10 @@ button {
     background-color: #404BBF;
 }
 
-.title-benefits {}
+.title-benefits {
+    line-height: 150%;
+    letter-spacing: 0.02em;
+}
     
 .list-benefits {   
     font-weight: 500;
